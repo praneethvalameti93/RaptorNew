@@ -1,0 +1,84 @@
+i=L
+r=""
+loop
+i<1
+
+print t[i]
+r=r+t[i]
+i=i-1
+
+r=r+"b" ="ab"
+
+
+
+
+
+1-1000 marks gen
+top= marks
+1st class(80-100) = no of students
+2nd class(60-79)  = no of students
+3nd class(35-59)  = no of students
+fail= no of students
+
+
+
+
+top=0
+fc=0
+sc=0
+tc=0
+fail=0
+call Redirect_Input("marksGen.txt")
+start loop
+End_Of_Input
+input->m
+yes---m>top---no
+top=m
+	
+
+	|
+   yes--m>80 && m<=100--no
+fc=fc+1             m>60 && m<=79  
+
+
+frequency of a char
+t=hai welcome to apssdc
+i=1
+p=t
+L=length_of(p)
+start loop
+c=0
+i>L
+
+yes--t[i]==' '--no
+	j=1
+	loop start
+	j>L
+	yes--p[j]==t[i]--no
+	c=c+1
+	|
+	j=j+1
+	loop end
+	print t[i]+"->"+c
+	
+    i=i+1
+
+
+
+
+
+fc=0
+a[1]=' '
+yes--a[k]==t[i]--no	t[i]=h
+		
+fc=fc+1		
+
+fc==0
+
+
+
+
+
+
+
+
