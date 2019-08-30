@@ -73,7 +73,7 @@ yes--a[k]==t[i]--no	t[i]=h
 		
 fc=fc+1		
 
-fc==0
+fc==1
 
 
 
